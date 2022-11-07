@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Day9_SavingData_HaiNM18</string>
+    <string name="school_image">School Image</string>
+    <string name="student_image">Student Image</string>
+    <string name="insert_a_school">Insert a School</string>
+    <string name="school_name">School Name</string>
+    <string name="school_address">School Address</string>
+    <string name="insert">Insert</string>
+    <string name="update_the_school">Update the School</string>
+    <string name="update">Update</string>
+    <string name="insert_a_student">Insert a Student</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_grade">Student Grade</string>
+    <string name="update_the_student">Update the Student</string>
+    <string name="button_insert_student">Insert a Student</string>
+    <string name="button_insert_school">Insert a School</string>
+    <string name="cancel">Cancel</string>
+</resources>
